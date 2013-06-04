@@ -1,3 +1,9 @@
 This is first test document...finally
 
+<<<<<<< HEAD
 assdfsadfsuuuuuuuuuuuuuuuuuuuuuud ;asfasiiii;dlfk
+=======
+my name is anthony gonsalves...
+
+A new line added....
+>>>>>>> testing9
